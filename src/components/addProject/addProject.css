@@ -1,0 +1,7 @@
+.form {
+  display: flex;
+  width: 100%; }
+
+.formTextField, .formDropDown, .formDatePicker {
+  flex: 1;
+  margin-right: 2em; }

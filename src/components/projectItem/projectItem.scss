@@ -1,0 +1,14 @@
+.projectDate {
+  font-weight: 900;
+  font-size: .7em;
+  color: #536DFE;
+}
+.listItem {
+  background-color: red;
+}
+.listItem > div > div > div {
+  top: 26px !important;
+}
+.listItem > div > div > svg {
+  top: 22px !important;
+}

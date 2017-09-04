@@ -1,0 +1,19 @@
+.header {
+  position: absolute;
+  width: 100%;
+  height: 170px;
+  background-color: #3D5AFE; }
+
+.card {
+  max-width: 800px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 63px;
+  margin: 0 auto; }
+
+.title {
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding: 0 25px; }
