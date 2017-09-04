@@ -96,8 +96,8 @@ export default class App extends Component {
           <Card className={style.card}>
             <p className={style.title}>
               project manager
-              <span className={style.version}>v0.1
-              </span>
+              <sup className={style.version}>v0.1
+              </sup>
             </p>
             <AddProject addProject={this.handleAddProject} projectAdded={this.state.projectAdded} />
             <Projects
